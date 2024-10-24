@@ -11,7 +11,7 @@
 
 - All of my projects are available at [https://akancha-kumari.github.io/Akancha-Portfolio/](https://akancha-kumari.github.io/Akancha-Portfolio/)
 
-- Reach me **akancha.kumari09@gmail.com**
+- How to reach me **akancha.kumari09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
