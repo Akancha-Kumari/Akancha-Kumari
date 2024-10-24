@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akancha-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="akancha-kumari" /> </p>
 
-- 🌱 I’m currently learning **Angular,React**
+- I’m currently studying at Hive Helsinki (42 Network)
 
-- 👨‍💻 All of my projects are available at [https://akancha-kumari.github.io/Akancha-Portfolio/](https://akancha-kumari.github.io/Akancha-Portfolio/)
+- Programming in **C, C#.NET, HTML, CSS, JS, APIs, SQL**
 
-- 💬 Ask me about **C#.NET, HTML, CSS, JS, APIs, SQL**
+- All of my projects are available at [https://akancha-kumari.github.io/Akancha-Portfolio/](https://akancha-kumari.github.io/Akancha-Portfolio/)
 
-- 📫 How to reach me **akancha.kumari09@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- Reach me **akancha.kumari09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
